@@ -2,7 +2,7 @@
 Um programa windows para gerenciamento de lojas
 
 <p align="center">
-  <img alt="SplashShark" src="https://media.giphy.com/media/StpVM0mc5xBmj4XGw6/giphy.gif" width="100%">
+  <img alt="SplashShark" src="https://media.giphy.com/media/StpVM0mc5xBmj4XGw6/source.gif" width="70%">
 </p>
 
 ## 🚀 Tecnologias
